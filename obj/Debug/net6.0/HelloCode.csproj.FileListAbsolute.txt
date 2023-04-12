@@ -1,0 +1,5 @@
+C:\КурсГБ_программист\2_Знакомство\Лекции\Урок_1\HelloCode\hellocode\obj\Debug\net6.0\HelloCode.csproj.AssemblyReference.cache
+C:\КурсГБ_программист\2_Знакомство\Лекции\Урок_1\HelloCode\hellocode\obj\Debug\net6.0\HelloCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\КурсГБ_программист\2_Знакомство\Лекции\Урок_1\HelloCode\hellocode\obj\Debug\net6.0\HelloCode.AssemblyInfoInputs.cache
+C:\КурсГБ_программист\2_Знакомство\Лекции\Урок_1\HelloCode\hellocode\obj\Debug\net6.0\HelloCode.AssemblyInfo.cs
+C:\КурсГБ_программист\2_Знакомство\Лекции\Урок_1\HelloCode\hellocode\obj\Debug\net6.0\HelloCode.csproj.CoreCompileInputs.cache

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\КурсГБ_программист\\2_Знакомство\\Лекции\\Урок 1\\HelloCode\\HelloCode.csproj",
+      "projectUniqueName": "C:\\КурсГБ_программист\\2_Знакомство\\Лекции\\Урок_1\\HelloCode\\hellocode\\HelloCode.csproj",
       "projectName": "HelloCode",
-      "projectPath": "C:\\КурсГБ_программист\\2_Знакомство\\Лекции\\Урок 1\\HelloCode\\HelloCode.csproj",
+      "projectPath": "C:\\КурсГБ_программист\\2_Знакомство\\Лекции\\Урок_1\\HelloCode\\hellocode\\HelloCode.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\КурсГБ_программист\\2_Знакомство\\Лекции\\Урок 1\\HelloCode\\obj\\",
+      "outputPath": "C:\\КурсГБ_программист\\2_Знакомство\\Лекции\\Урок_1\\HelloCode\\hellocode\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
